@@ -77,9 +77,8 @@ python sample_run.py
 
 | Input Video | Prediction 1 | Prediction 2 |
 | :---: | :---: | :---: |
-| <img src="./assets/gifs/sphere_1_1_gt_overlay.gif" width="260" controls></video> <br> TokSim score: | <img src="./assets/gifs/sphere_1_1_pred1.gif" width="260" controls></video><br> 33.19 | <img src="./assets/gifs/sphere_1_1_pred2.gif" width="260" controls></video><br> 22.37 |
-| <img src="./assets/gifs/zebra_1_1_gt_overlay.gif" width="260" controls></video> <br>TokSim score: | <video src="./assets/video_eg_2/zebra_1_1_pred1.mp4" width="260" controls></video><br> 22.54 | <video src="./assets/video_eg_2/zebra_1_1_pred2.mp4" width="260" controls></video><br> 16.82 |
-
+| <img src="./assets/gifs/sphere_1_1_gt_overlay.gif" width="260" controls></img> <br> TokSim score: | <img src="./assets/gifs/sphere_1_1_pred1.gif" width="260" controls></img><br> 33.19 | <img src="./assets/gifs/sphere_1_1_pred2.gif" width="260" controls></img><br> 22.37 |
+| <img src="./assets/gifs/zebra_1_1_gt_overlay.gif" width="260" controls></img> <br>TokSim score: | <img src="./assets/gifs/zebra_1_1_pred1.gif" width="260" controls></img><br> 22.54 | <img src="./assets/gifs/zebra_1_1_pred2.gif" width="260" controls></img><br> 16.82 |
 
 ## 🤗 Citation
 ```
