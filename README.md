@@ -33,13 +33,11 @@
 ---
 **Object-WIPER** is a training-free method for removing objects and their associated effects by leveraging video priors. We also introduce a real-world associated-effect benchmark and **TokSim**, a metric for evaluating object removal quality.
 
----
 
 ## 🗞️ News: 
 * **Toksim:** A new evaluation object removal metric.
 * **WIPER-Bench:** A new real-world object removal benchmark. ([Link](https://huggingface.co/datasets/sakshamsingh1/WIPER-bench))
 
----
 
 ## 🛠️ Installation
 
@@ -53,8 +51,6 @@ pip install torch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0 --index-url https
 conda install -c conda-forge ffmpeg -y
 pip install av transformers pillow
 ```
-
----
 
 ## ⚖️ TokSim
 
@@ -81,8 +77,8 @@ python sample_run.py
 
 | Input Video | Prediction 1 | Prediction 2 |
 | :---: | :---: | :---: |
-| <video src="./assets/video_eg_1/sphere_1_1_gt_overlay.mp4" width="260" controls></video> <br> TokSim score: | <video src="./assets/video_eg_1/sphere_1_1_pred1.mp4" width="260" controls></video><br> 33.19 | <video src="./assets/video_eg_1/sphere_1_1_pred2.mp4" width="260" controls></video><br> 22.37 |
-| <video src="./assets/video_eg_2/zebra_1_1_gt_overlay.mp4" width="260" controls></video> <br>TokSim score: | <video src="./assets/video_eg_2/zebra_1_1_pred1.mp4" width="260" controls></video><br> 22.54 | <video src="./assets/video_eg_2/zebra_1_1_pred2.mp4" width="260" controls></video><br> 16.82 |
+| <img src="./assets/gifs/sphere_1_1_gt_overlay.gif" width="260" controls></video> <br> TokSim score: | <img src="./assets/gifs/sphere_1_1_pred1.gif" width="260" controls></video><br> 33.19 | <img src="./assets/gifs/sphere_1_1_pred2.gif" width="260" controls></video><br> 22.37 |
+| <img src="./assets/gifs/zebra_1_1_gt_overlay.gif" width="260" controls></video> <br>TokSim score: | <video src="./assets/video_eg_2/zebra_1_1_pred1.mp4" width="260" controls></video><br> 22.54 | <video src="./assets/video_eg_2/zebra_1_1_pred2.mp4" width="260" controls></video><br> 16.82 |
 
 
 ## 🤗 Citation
