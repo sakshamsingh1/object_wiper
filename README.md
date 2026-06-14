@@ -35,6 +35,7 @@
 
 
 ## 🗞️ News: 
+* <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" /> **Unofficial Object-WIPER Implementation:** A third-party implementation is available [here](https://github.com/Square-Zero-Labs/object-wiper-implementation). Thanks to [Square-Zero-Labs](https://github.com/Square-Zero-Labs). This implementation is not maintained or supported by us.
 * **Toksim:** A new evaluation object removal metric.
 * **WIPER-Bench:** A new real-world object removal benchmark. ([Link](https://huggingface.co/datasets/sakshamsingh1/WIPER-bench))
 
