@@ -83,11 +83,13 @@ python sample_run.py
 
 ## 🤗 Citation
 ```
-@article{kushwaha2026object,
-  title={Object-WIPER: Training-Free Object and Associated Effect Removal in Videos},
-  author={Kushwaha, Saksham Singh and Nag, Sayan and Tian, Yapeng and Kulkarni, Kuldeep},
-  journal={arXiv preprint arXiv:2601.06391},
-  year={2026}
+@InProceedings{Kushwaha_2026_CVPR,
+    author    = {Kushwaha, Saksham Singh and Nag, Sayan and Tian, Yapeng and Kulkarni, Kuldeep},
+    title     = {Object-WIPER: Training-Free Object and Associated Effect Removal in Videos},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {38071-38080}
 }
 ```
 
